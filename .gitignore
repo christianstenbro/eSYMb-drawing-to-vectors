@@ -1,2 +1,6 @@
 # ignore venv
 .venv/
+
+# ignore content of the data folders
+STUDY2_drawing_samples/
+STUDY3_drawing_samples/
