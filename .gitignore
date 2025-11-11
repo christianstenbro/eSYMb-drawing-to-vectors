@@ -2,5 +2,8 @@
 .venv/
 
 # ignore content of the data folders
-drawing_samples/STUDY2_drawing_samples/
-drawing_samples/STUDY3_drawing_samples/
+drawing_samples/STUDY2_drawing_samples/*
+!drawing_samples/STUDY2_drawing_samples/.gitkeep
+
+drawing_samples/STUDY3_drawing_samples/*
+!drawing_samples/STUDY3_drawing_samples/.gitkeep
